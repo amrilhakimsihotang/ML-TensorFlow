@@ -1,5 +1,5 @@
 # ML-TensorFlow
-![image](https://github.com/amrilhakimsihotang/ML-TensorFlow/assets/68908992/50deb4c6-c237-4db2-beca-3d45c8af83c7)<br>
+![Screenshot from 2024-05-17 17-19-19](https://github.com/amrilhakimsihotang/ML-TensorFlow/assets/68908992/78b68d60-da94-4247-84c9-4c75c1921b13)<br>
 Proyek Akhir : Klasifikasi Gambar <br>
 Belajar Machine Learning untuk Pemula<br>
 DICODING <br><br>
